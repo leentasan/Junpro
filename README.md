@@ -1,2 +1,6 @@
-# Junpro
-This repository contains practical assignments for the Junior Project course in Semester 5
+#NAMA APLIKASI
+deskripsi
+
+NAMA KELOMPOK
+Anggota: Della Febi Alfian
+Anggota: Gabriella Eileen Gultom
