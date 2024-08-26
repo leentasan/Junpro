@@ -10,7 +10,13 @@
 - **Wishlist**: Save your favorite items for later purchase.
 - **Ratings and Reviews**: Read and leave reviews to ensure a reliable shopping experience.
 
+## User Target
+
+- **Online shopping enthusiast**
+- **Fashion enthusiast**
+- **Thrifting enthusiast**
+
 ## Team Members
 
-- **Della Febi Alfian** (22/505892/TK/55393)
 - **Gabriella Eileen Gultom** (22/503523/TK/55019)
+- **Della Febi Alfian** (22/505892/TK/55393)
