@@ -20,3 +20,7 @@
 
 - **Gabriella Eileen Gultom** (22/503523/TK/55019)
 - **Della Febi Alfian** (22/505892/TK/55393)
+
+##Class Diagram
+![Class Diagram9_10png](https://github.com/user-attachments/assets/d07cd5ff-b2f4-4c84-b4a3-ff279a95fc67)
+
